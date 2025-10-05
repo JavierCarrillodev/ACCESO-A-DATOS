@@ -11,7 +11,7 @@ public class Main {
         String mode = args[0].toLowerCase();
         File xml = new File(args.length >= 2 ? args[1] : "books.xml");
 */
-        String mode = "dom";
+        String mode = "sax";
         File xml = new File("XML/src/books.xml");
         List<Book> books;
         switch (mode) {
