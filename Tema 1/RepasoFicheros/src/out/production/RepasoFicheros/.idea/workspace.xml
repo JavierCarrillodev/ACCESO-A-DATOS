@@ -17,30 +17,32 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="33b2kxe2DYu2ntgUf6rnoUDxF1B" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Ejer10.executor": "Run",
-    "Application.Ejer6.executor": "Run",
-    "Application.Ejer7.executor": "Run",
-    "Application.Ejer8.executor": "Run",
-    "Application.Ejer9.executor": "Run",
-    "Application.FicheroConHtml.executor": "Run",
-    "Application.FicherosNumeros.executor": "Run",
-    "Application.Ficheross.executor": "Run",
-    "Application.LeerFicheros.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Ejer1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejer10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejer2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejer6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejer7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejer8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejer9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FicheroConHtml.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FicherosNumeros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ficheross.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeerFicheros.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Ejercicio7" />

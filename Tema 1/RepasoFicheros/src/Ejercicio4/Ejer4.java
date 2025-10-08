@@ -8,7 +8,7 @@ public class Ejer4 {
     public static void main(String[] args) {
         ArrayList<Empleado> empleados = new ArrayList<>();
         try {
-            BufferedReader br = new BufferedReader(new FileReader("empleado.txt"));
+            BufferedReader br = new BufferedReader(new FileReader("Ejercicio4/empleados.txt"));
             String linea;
             while ((linea = br.readLine()) !=null){
                String[] lineaSeparar = linea.split(";");

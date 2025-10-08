@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd539ac4-6a12-47a7-b6b2-1e39219afce7" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="33kRjtXJzd2IiLQ4BrPzqB91Up0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Ejer1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejer2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejer3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejer4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejer5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejer6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejer6_6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejer7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejer8.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Ejer2">
+    <configuration name="Ejer2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio2.Ejer2" />
+      <module name="FicheroRepasoExamen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicio2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejer4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio4.Ejer4" />
+      <module name="FicheroRepasoExamen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicio4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejer6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio6.Ejer6" />
+      <module name="FicheroRepasoExamen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicio6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ejer6" />
+        <item itemvalue="Application.Ejer4" />
+        <item itemvalue="Application.Ejer2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd539ac4-6a12-47a7-b6b2-1e39219afce7" name="Changes" comment="" />
+      <created>1759859221503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759859221503</updated>
+    </task>
+    <servers />
+  </component>
+</project>

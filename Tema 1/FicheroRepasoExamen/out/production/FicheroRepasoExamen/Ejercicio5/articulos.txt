@@ -1,0 +1,3 @@
+1;Bolígrafo;1.5
+2;Cuaderno;3.0
+3;Mochila;20.0

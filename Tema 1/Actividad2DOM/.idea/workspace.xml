@@ -24,9 +24,18 @@
     "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/javi/Documentos/Javi/2DAM/Acceso a datos/Tema 1/Actividad2DOM/src/SAX"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/SAX" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="SAX" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="7fd1380c-1bd9-4abf-b70b-cab133e091ad" name="Changes" comment="" />

@@ -25,30 +25,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Ejer1.executor": "Run",
-    "Application.Ejer10.executor": "Run",
-    "Application.Ejer2.executor": "Run",
-    "Application.Ejer6.executor": "Run",
-    "Application.Ejer7.executor": "Run",
-    "Application.Ejer8.executor": "Run",
-    "Application.Ejer9.executor": "Run",
-    "Application.FicheroConHtml.executor": "Run",
-    "Application.FicherosNumeros.executor": "Run",
-    "Application.Ficheross.executor": "Run",
-    "Application.LeerFicheros.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Ejer1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejer10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejer2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejer4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejer4_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejer6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejer7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejer8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejer9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio2_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FicheroConHtml.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FicherosNumeros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ficheross.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeerFicheros.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/javi/Documentos/Javi/2DAM/Acceso a datos/Tema 1/RepasoFicheros/src/Ejercicio4&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Ejercicio4" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Ejercicio7" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Ejer10">
     <configuration name="Ejer10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejercicio10.Ejer10" />
       <module name="RepasoFicheros" />
